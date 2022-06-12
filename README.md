@@ -1,7 +1,13 @@
-## Olá! Eu sou o Paulo Sheliga
-
-- Atualmente estou buscando recolocação profissional como desenvolvedor de software
-- Atualmente estou estudando Node.JS com Express.JS
+## Olá! Meu nome é Paulo Sheliga
+<div> 
+  <h3>Contatos:</h3>
+  Email:<a href = "mailto:paulosheliga@gmail.com"> paulosheliga@gmail.com</a> <br>
+  Linkedin:<a href="https://www.linkedin.com/in/paulo-cezar-sheliga/" target="_blank"> https://www.linkedin.com/in/paulo-cezar-sheliga/</a> 
+ 
+</div>
+- Atualmente estou estudando Node.JS com Express.JS <br>
+- Atualmente estou buscando recolocação profissional como desenvolvedor de software <br>
+- Atualmente estou estudando Node.JS com Express.JS <br>
 
 <hr>
 <div align="center">
@@ -22,10 +28,4 @@
 </div>
   <br>
   <hr>
-<div> 
 
-  <a href = "mailto:paulosheliga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-cezar-sheliga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
