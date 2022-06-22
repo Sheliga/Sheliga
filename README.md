@@ -6,8 +6,10 @@
  
 </div>
 - Atualmente estou estudando Node.JS com Express.JS <br>
-- Atualmente estou buscando recolocação profissional como desenvolvedor de software <br>
-- Atualmente estou estudando Node.JS com Express.JS <br>
+- Possuo conhecimento em Wordpress e Elementor <br>
+- Possuo conhecimento em Python com Flask e Django <br>
+- Possuo conhecimento em PHP com codeigniter e Laravel <br>
+- Possuo conhecimento em processamento de imagem digital e inteligencia artificial
 
 <hr>
 <div align="center">
