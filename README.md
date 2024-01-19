@@ -2,8 +2,8 @@
 <div> 
   <h3>Contatos:</h3>
   Email:<a href = "mailto:paulosheliga@gmail.com"> paulosheliga@gmail.com</a> <br>
-  Linkedin:<a href="https://www.linkedin.com/in/paulo-cezar-sheliga/" target="_blank"> https://www.linkedin.com/in/paulo-cezar-sheliga/</a> 
-  Linkedin:<a href="https://api.whatsapp.com/send?phone=5542991626254" target="_blank"> WhatsApp</a> 
+  Linkedin:<a href="https://www.linkedin.com/in/paulo-cezar-sheliga/" target="_blank"> https://www.linkedin.com/in/paulo-cezar-sheliga/</a> <br>
+  WhatsApp:<a href="https://api.whatsapp.com/send?phone=5542991626254" target="_blank"> WhatsApp</a> 
  
 </div>
 - Atualmente estou estudando Node.JS com Express.JS <br>
