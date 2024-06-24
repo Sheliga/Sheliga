@@ -1,16 +1,12 @@
-## Olá! Meu nome é Paulo Sheliga
+## Olá! Meu nome é Paulo Sheliga, sou desenvolvedor JS fullstack
 <div> 
   <h3>Contatos:</h3>
   Email:<a href = "mailto:paulosheliga@gmail.com"> paulosheliga@gmail.com</a> <br>
   Linkedin:<a href="https://www.linkedin.com/in/paulo-cezar-sheliga/" target="_blank"> https://www.linkedin.com/in/paulo-cezar-sheliga/</a> <br>
-  WhatsApp:<a href="https://api.whatsapp.com/send?phone=5542991626254" target="_blank"> WhatsApp</a> 
+  
  
 </div>
-- Atualmente estou estudando Node.JS com Express.JS <br>
-- Possuo conhecimento em Wordpress e Elementor <br>
-- Possuo conhecimento em Python com Flask e Django <br>
-- Possuo conhecimento em PHP com codeigniter e Laravel <br>
-- Possuo conhecimento em processamento de imagem digital e inteligencia artificial
+
 
 <hr>
 <div align="center">
