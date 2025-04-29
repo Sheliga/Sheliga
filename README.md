@@ -9,7 +9,7 @@ Atualmente expandindo meus conhecimentos em back-end com <strong>Java</strong> e
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Bacharel em Sistemas da Informação (Uniguaçu)
+- 🎓 Bacharel em Sistemas da Informação 
 - 🚀 Focado no desenvolvimento de aplicações escaláveis, performáticas e com excelente experiência de usuário
 - 📚 Atualmente cursando o Bootcamp Java Developer para aprofundar minhas habilidades em back-end
 - 💬 Pergunte-me sobre: Front-end com React/Next.js, APIs REST, boas práticas de desenvolvimento e integração de APIs como Google Maps
