@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Paulo Cezar Sheliga</h1>
 
 <p align="center">
@@ -97,4 +96,3 @@ Também curso pós-graduação em Engenharia de IA Aplicada, com foco em LLMs, A
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheliga&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-```
