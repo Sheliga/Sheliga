@@ -1,22 +1,88 @@
-<h1 align="center">Olá! Eu sou o Paulo Sheliga 👋</h1>
+```md
+<h1 align="center">Paulo Cezar Sheliga</h1>
 
 <p align="center">
-Desenvolvedor Full Stack especializado em aplicações web com <strong>React.js</strong>, <strong>Next.js</strong> e <strong>Node.js</strong>.<br/>
-Atualmente expandindo meus conhecimentos em back-end com <strong>Java</strong> e <strong>Spring Boot</strong>! 🚀
+Desenvolvedor de Software com foco em APIs, sistemas corporativos, banco de dados e IA aplicada.
+</p>
+
+<p align="center">
+Atuação atual com <strong>C#</strong>, <strong>Flutter</strong> e <strong>SQL</strong> em sistemas corporativos internos, com base histórica em <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Node.js</strong> e <strong>Python</strong>.
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Bacharel em Sistemas da Informação 
-- 🚀 Focado no desenvolvimento de aplicações escaláveis, performáticas e com excelente experiência de usuário
-- 📚 Atualmente cursando o Bootcamp Java Developer para aprofundar minhas habilidades em back-end
-- 💬 Pergunte-me sobre: Front-end com React/Next.js, APIs REST, boas práticas de desenvolvimento e integração de APIs como Google Maps
+Sou desenvolvedor de software com base full stack e experiência em sistemas web, APIs, integrações, banco de dados e aplicações voltadas a problemas reais de negócio.
+
+Minha base técnica histórica é mais forte em JavaScript/TypeScript, React, Next.js, Node.js e Python. Atualmente atuo com C#, Flutter e SQL em sistemas corporativos internos, trabalhando com manutenção e evolução de aplicações, integração entre app, backend e banco de dados, correção de bugs e apoio a processos operacionais.
+
+Estou em uma fase de consolidação profissional, aprofundando minha atuação em sistemas corporativos, APIs, banco de dados, testes, observabilidade, manutenção de software e boas práticas de engenharia.
+
+Também curso pós-graduação em Engenharia de IA Aplicada, com foco em LLMs, APIs de IA generativa, RAG, agentes, MCP, automações e arquitetura de sistemas com IA. Meu objetivo é aplicar IA de forma pragmática em sistemas reais, automações, integrações, análise de dados e melhoria de processos.
 
 ---
 
-## 📫 Como me encontrar:
+## Foco atual
+
+- Desenvolvimento de sistemas corporativos com C#, Flutter e SQL
+- APIs, integrações e comunicação entre aplicação, backend e banco de dados
+- Banco de dados relacional, consultas SQL, modelagem e troubleshooting
+- Testes automatizados, qualidade de código e manutenção de sistemas
+- Observabilidade, logs, rastreabilidade e investigação de problemas
+- IA aplicada a sistemas reais, automações, RAG, agentes e melhoria de processos
+
+---
+
+## Experiência técnica
+
+### Stack atual
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="CSharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="DotNet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+</div>
+
+### Base histórica
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+
+### Ferramentas e práticas
+
+- Git e GitHub
+- APIs REST
+- SQL e bancos relacionais
+- Docker em ambiente de desenvolvimento
+- Boas práticas de engenharia de software
+- Clean Code, SOLID e organização de código
+- Testes automatizados em evolução
+- Observabilidade e troubleshooting em evolução
+
+---
+
+## Áreas de interesse profissional
+
+- Backend e APIs
+- Sistemas corporativos internos
+- Banco de dados e performance SQL
+- Integração entre sistemas
+- Manutenção e evolução de sistemas legados
+- Observabilidade e confiabilidade de aplicações
+- IA aplicada ao desenvolvimento de software e processos de negócio
+
+---
+
+## Contato
 
 - Email: [paulosheliga@gmail.com](mailto:paulosheliga@gmail.com)
 - LinkedIn: [linkedin.com/in/paulo-cezar-sheliga](https://www.linkedin.com/in/paulo-cezar-sheliga)
@@ -24,29 +90,11 @@ Atualmente expandindo meus conhecimentos em back-end com <strong>Java</strong> e
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Sheliga">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sheliga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheliga&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheliga&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
-
----
+```
