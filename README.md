@@ -87,12 +87,3 @@ Também curso pós-graduação em Engenharia de IA Aplicada, com foco em LLMs, A
 - LinkedIn: [linkedin.com/in/paulo-cezar-sheliga](https://www.linkedin.com/in/paulo-cezar-sheliga)
 - GitHub: [github.com/Sheliga](https://github.com/Sheliga)
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Sheliga">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheliga&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
