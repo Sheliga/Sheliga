@@ -1,89 +1,128 @@
 <h1 align="center">Paulo Cezar Sheliga</h1>
 
 <p align="center">
-Desenvolvedor de Software com foco em APIs, sistemas corporativos, banco de dados e IA aplicada.
+  <strong>Desenvolvedor Full Stack | Foco em Backend C# / .NET</strong>
 </p>
 
 <p align="center">
-Atuação atual com <strong>C#</strong>, <strong>Flutter</strong> e <strong>SQL</strong> em sistemas corporativos internos, com base histórica em <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Node.js</strong> e <strong>Python</strong>.
+  C# • .NET • SQL Server • TypeScript • Python • Flutter
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou desenvolvedor de software com base full stack e experiência em sistemas web, APIs, integrações, banco de dados e aplicações voltadas a problemas reais de negócio.
+Sou desenvolvedor full stack com experiência em **sistemas web, APIs, integrações, bancos de dados e aplicações corporativas**, atualmente direcionando minha carreira para **backend e engenharia de software com C# e .NET**.
 
-Minha base técnica histórica é mais forte em JavaScript/TypeScript, React, Next.js, Node.js e Python. Atualmente atuo com C#, Flutter e SQL em sistemas corporativos internos, trabalhando com manutenção e evolução de aplicações, integração entre app, backend e banco de dados, correção de bugs e apoio a processos operacionais.
+No trabalho atual, atuo com **C#, .NET, Flutter e SQL Server** na manutenção e evolução de sistemas corporativos. Meu dia a dia envolve entender regras de negócio existentes, investigar problemas, desenvolver funcionalidades, trabalhar com APIs e banco de dados e integrar diferentes partes do sistema.
 
-Estou em uma fase de consolidação profissional, aprofundando minha atuação em sistemas corporativos, APIs, banco de dados, testes, observabilidade, manutenção de software e boas práticas de engenharia.
+Minha trajetória anterior inclui **JavaScript, TypeScript, React, Next.js, Node.js e Python**, experiência que me permite transitar entre diferentes camadas de uma aplicação e entender os impactos de uma decisão de backend no restante do sistema.
 
-Também curso pós-graduação em Engenharia de IA Aplicada, com foco em LLMs, APIs de IA generativa, RAG, agentes, MCP, automações e arquitetura de sistemas com IA. Meu objetivo é aplicar IA de forma pragmática em sistemas reais, automações, integrações, análise de dados e melhoria de processos.
-
----
-
-## Foco atual
-
-- Desenvolvimento de sistemas corporativos com C#, Flutter e SQL
-- APIs, integrações e comunicação entre aplicação, backend e banco de dados
-- Banco de dados relacional, consultas SQL, modelagem e troubleshooting
-- Testes automatizados, qualidade de código e manutenção de sistemas
-- Observabilidade, logs, rastreabilidade e investigação de problemas
-- IA aplicada a sistemas reais, automações, RAG, agentes e melhoria de processos
+Hoje, meu principal eixo técnico é **backend .NET**, especialmente APIs, persistência de dados, integração entre sistemas, qualidade de software e confiabilidade.
 
 ---
 
-## Experiência técnica
+## Atuação técnica
 
-### Stack atual
+### Backend e APIs
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="CSharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="DotNet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-</div>
+Trabalho com desenvolvimento e manutenção de aplicações em **C# e .NET**, incluindo:
 
-### Base histórica
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
-
-### Ferramentas e práticas
-
-- Git e GitHub
 - APIs REST
-- SQL e bancos relacionais
-- Docker em ambiente de desenvolvimento
-- Boas práticas de engenharia de software
-- Clean Code, SOLID e organização de código
-- Testes automatizados em evolução
-- Observabilidade e troubleshooting em evolução
+- autenticação e autorização
+- integração entre sistemas
+- regras de negócio
+- tratamento de erros
+- processamento e persistência de dados
+- manutenção e evolução de sistemas existentes
+- troubleshooting e investigação de problemas
+
+### Dados
+
+Tenho experiência prática com **SQL Server e bancos relacionais**, principalmente em:
+
+- consultas SQL
+- modelagem e acesso a dados
+- Dapper
+- paginação
+- transações
+- análise de consultas e planos de execução
+- índices e performance
+- ciclo de vida e pool de conexões
+
+### Aplicações e Full Stack
+
+Minha experiência full stack inclui:
+
+- **React e Next.js** para aplicações web
+- **Node.js** para backend
+- **Flutter** para aplicações desktop e mobile
+- **TypeScript e JavaScript**
+- integração entre frontend, API e banco de dados
+
+Essa base continua fazendo parte do meu perfil, embora minha especialização profissional esteja cada vez mais concentrada em backend.
 
 ---
 
-## Áreas de interesse profissional
+## Engenharia de software
 
-- Backend e APIs
-- Sistemas corporativos internos
-- Banco de dados e performance SQL
-- Integração entre sistemas
-- Manutenção e evolução de sistemas legados
-- Observabilidade e confiabilidade de aplicações
-- IA aplicada ao desenvolvimento de software e processos de negócio
+Além da implementação de funcionalidades, tenho interesse especial nos problemas que aparecem quando um sistema precisa continuar funcionando e evoluindo ao longo do tempo:
+
+- testes automatizados
+- manutenção e evolução de código existente
+- integração entre aplicações
+- debugging e troubleshooting
+- performance de banco de dados
+- Docker e ambientes reproduzíveis
+- observabilidade e rastreabilidade
+- processamento assíncrono e mensageria
+- arquitetura e decisões técnicas
+
+Meu objetivo profissional é aprofundar essas competências e construir sistemas backend cada vez mais previsíveis, testáveis, observáveis e fáceis de manter.
+
+---
+
+## IA aplicada
+
+Curso pós-graduação em **Engenharia de Software com IA Aplicada**.
+
+Meu interesse nessa área está principalmente na integração entre **engenharia de software e IA**, utilizando modelos e ferramentas de IA como componentes de sistemas reais, e não como uma área isolada do desenvolvimento.
+
+Nesse contexto, utilizo principalmente **Python** e tenho contato com tecnologias e conceitos como:
+
+- FastAPI
+- APIs de LLMs
+- RAG
+- LangChain
+- LangGraph
+- agentes e automações
+
+A IA funciona como uma extensão da minha formação em software, enquanto **backend e engenharia de sistemas continuam sendo meu eixo profissional principal**.
+
+---
+
+## Tecnologias
+
+### Principal atuação
+
+`C#` · `.NET` · `ASP.NET Core` · `SQL Server` · `Dapper` · `Flutter`
+
+### Experiência Full Stack
+
+`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Python`
+
+### Engenharia e infraestrutura
+
+`Git` · `GitHub` · `Docker` · `REST APIs` · `Testes Automatizados` · `SQL` · `OpenTelemetry`
+
+### Ecossistema em desenvolvimento
+
+`Kafka` · `Mensageria` · `Sistemas Distribuídos` · `Observabilidade` · `CI/CD`
 
 ---
 
 ## Contato
 
-- Email: [paulosheliga@gmail.com](mailto:paulosheliga@gmail.com)
-- LinkedIn: [linkedin.com/in/paulo-cezar-sheliga](https://www.linkedin.com/in/paulo-cezar-sheliga)
-- GitHub: [github.com/Sheliga](https://github.com/Sheliga)
-
+**Email:** [paulosheliga@gmail.com](mailto:paulosheliga@gmail.com)  
+**LinkedIn:** [linkedin.com/in/paulo-cezar-sheliga](https://www.linkedin.com/in/paulo-cezar-sheliga)  
+**GitHub:** [github.com/Sheliga](https://github.com/Sheliga)
