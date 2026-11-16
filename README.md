@@ -10,6 +10,14 @@
 
 ---
 
+## Certificações
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/38aef756-27c7-4367-8e0a-b5212430994b)
+
+**AWS Certified Cloud Practitioner** — Amazon Web Services (AWS) · [Verificar credencial no Credly](https://www.credly.com/badges/38aef756-27c7-4367-8e0a-b5212430994b)
+
+---
+
 ## Sobre mim
 
 Sou desenvolvedor full stack com experiência em **sistemas web, APIs, integrações, bancos de dados e aplicações corporativas**, atualmente direcionando minha carreira para **backend e engenharia de software com C# e .NET**.
