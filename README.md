@@ -8,6 +8,10 @@
   C# • .NET • SQL Server • TypeScript • Python • Flutter
 </p>
 
+<p align="center">
+  <a href="https://psheliga.vercel.app"><strong>Portfólio: psheliga.vercel.app</strong></a>
+</p>
+
 ---
 
 ## Certificações
@@ -131,6 +135,7 @@ A IA funciona como uma extensão da minha formação em software, enquanto **bac
 
 ## Contato
 
+**Portfólio:** [psheliga.vercel.app](https://psheliga.vercel.app)  
 **Email:** [paulosheliga@gmail.com](mailto:paulosheliga@gmail.com)  
 **LinkedIn:** [linkedin.com/in/paulo-cezar-sheliga](https://www.linkedin.com/in/paulo-cezar-sheliga)  
 **GitHub:** [github.com/Sheliga](https://github.com/Sheliga)
